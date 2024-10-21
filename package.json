@@ -8,8 +8,10 @@
         "type": "git",
         "url": "https://github.com/gabsthecuriouskid/javascript-plus.git"
     },
-    "publishConfig": {
-      "registry": "https://npm.pkg.github.com/"
-    },
+    "files": [
+        "javascript-plus/",
+        "functions/",
+        "*.js"
+    ],
     "private": false
 }
