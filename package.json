@@ -1,7 +1,7 @@
 {
     "name": "javascript-plus",
     "version": "1.0.0",
-    "main": "javascriptPlus/javascriptPlus.js",
+    "main": "javascript-plus/javascript-plus.js",
     "author": "StarTheCreator",
     "license": "MIT",
     "private": false
