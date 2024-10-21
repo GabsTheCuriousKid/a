@@ -1,6 +1,6 @@
 {
     "name": "javascript-plus",
     "version": "1.0.0",
-    "main": "./javascriptPlus/javascriptPlus.js",
+    "main": "javascriptPlus/javascriptPlus.js",
     "private": false
-  }
+}
