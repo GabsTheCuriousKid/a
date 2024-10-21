@@ -4,5 +4,9 @@
     "main": "javascript-plus/javascript-plus.js",
     "author": "StarTheCreator",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gabsthecuriouskid/javascript-plus.git"
+    },
     "private": false
 }
